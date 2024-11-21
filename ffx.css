@@ -1,0 +1,134 @@
+.uler {
+   list-style-type: disc;
+   color: green;
+   text-align: center;
+   list-style-position: inside;
+}
+.uler .universe::marker{
+    color:blue
+}
+.uhuh{
+    list-style-type: square;
+}
+.oler{
+    list-style-type: upper-roman;
+}
+.images{
+    list-style-image:url(arrow.png);
+    padding-left:100px;
+}
+.olerder{
+    margin:30px;
+    text-align: right;
+    list-style-position: inside;
+}
+.god{
+    text-align: right;
+    padding:15px;
+}
+.lista{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid lightseagreen;
+    background-color: lightyellow;
+}
+.lista_w_liscie_1{
+color: rgb(10, 54, 54);
+background-color: deepskyblue;
+}
+
+.lista_w_liscie_2{
+    color: rgb(197, 230, 122);
+    background-color: rgb(35, 100, 35);
+    }
+
+        .lista_w_liscie_4{
+            color: rgb(194, 117, 177);
+            background-color: rgb(121, 9, 106);
+            }
+            .lista_w_liscie_5{
+                color: rgb(76, 172, 105);
+                background-color: rgb(12, 97, 126);
+                }
+                .lista_w_liscie_6{
+                    color: rgb(25, 124, 119);
+                    background-color: darkseagreen;
+                    }
+                    .lista_w_liscie_7{
+                        color: lightcoral;
+                        background-color:rgb(92, 27, 14)
+                        }
+.links{
+    background-color: lightseagreen;
+    text-decoration: underline;
+    color: darkblue;
+}
+.links:hover{
+    background-color: lightcoral;
+    text-decoration: none;
+}
+
+.play{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+width:70%;
+padding:10px;
+text-align: center;
+list-style-image: url(arrow.png);
+
+}
+.language{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+width:70%;
+padding:10px;
+text-align: center;
+list-style-image: url(arrow.png);
+
+}
+.settings{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+width:70%;
+padding:10px;
+text-align: center;
+list-style-image: url(arrow.png);
+
+}
+.leave{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+width:70%;
+padding:10px;
+text-align: center;
+list-style-image: url(arrow.png);
+}
+menu{
+    display: flex;
+    justify-content: center;
+}
+.play:hover{
+background-color: white;
+color:black;
+list-style-type: none;
+}
+.language:hover{
+    background-color: white;
+    color:black;
+    list-style-type: none;
+    }
+    .settings:hover{
+        background-color: white;
+        color:black;
+        list-style-type: none;
+        }
+        .leave:hover{
+            background-color: white;
+            color:black;
+            list-style-type: none;
+            }
